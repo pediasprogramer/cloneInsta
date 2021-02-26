@@ -5,7 +5,7 @@
 this website is test for me learn and practice my programming logic
 
 <p>
-  <img src="https://github.com/pediasprogramer/cloneInsta/blob/main/app1(1).png" alt="apps" width="700" height="400"> <img src="https://github.com/pediasprogramer/cloneInsta/blob/main/app1.png" alt="apps"  width="200" height="400" >
+  <img src="https://github.com/pediasprogramer/cloneInsta/blob/main/app1(1).png" alt="apps" width="650" height="400"> <img src="https://github.com/pediasprogramer/cloneInsta/blob/main/app1.png" alt="apps"  width="200" height="400" >
 </p>
 
 # 💻about 
